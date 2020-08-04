@@ -23,7 +23,7 @@ h1 {
   -webkit-box-pack: center;
   justify-content: center;
   -webkit-box-align: center;
-  align-items: top;
+  align-items: center;
   width: 100%;
   min-height: 100vh;
 }
@@ -63,7 +63,7 @@ a {
   -webkit-box-pack: center;
   justify-content: center;
   -webkit-box-align: center;
-  align-items: top;
+  align-items: center;
   top: 0;
   left: 0;
   right: 0;
